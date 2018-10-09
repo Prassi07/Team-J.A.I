@@ -1,4 +1,9 @@
-# Contributors:
+# :bangbang: This project is no longer being maintained.:bangbang: 
+# :bangbang: The dependencies are old and vulnerable.   :bangbang: 
+# :bangbang: Use at your own risk.                      :bangbang:
+
+
+## Contributors:
 * Prasanna V : https://github.com/Prassi07
 * Sameer G : https://github.com/sameerg07
 * Rahul RB : https://github.com/Rahul-RB
